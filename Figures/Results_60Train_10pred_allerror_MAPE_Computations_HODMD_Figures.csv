@@ -1,0 +1,41 @@
+Country,Threshold,No of Computation,MAPE
+Germany,0,39,1.844
+Germany,1,26,2.869
+Germany,5,20,4.961
+Germany,10,14,6.891
+India,0,39,2.313
+India,1,27,4.667
+India,5,19,7.984
+India,10,15,10.031
+Italy,0,39,1.636
+Italy,1,24,2.828
+Italy,5,17,5.158
+Italy,10,12,6.811
+New Zealand,0,39,1.134
+New Zealand,1,21,2.368
+New Zealand,5,11,4.226
+New Zealand,10,8,5.953
+Singapore,0,39,3.243
+Singapore,1,20,3.756
+Singapore,5,12,5.407
+Singapore,10,9,7.659
+Somalia,0,39,2.396
+Somalia,1,31,3.445
+Somalia,5,19,4.647
+Somalia,10,13,6.819
+South Korea,0,39,7.679
+South Korea,1,24,7.997
+South Korea,5,14,9.839
+South Korea,10,11,11.572
+Uganda,0,39,6.462
+Uganda,1,32,7.769
+Uganda,5,24,10.553
+Uganda,10,17,12.067
+UK,0,39,2.053
+UK,1,29,3.045
+UK,5,16,5.85
+UK,10,14,6.846
+USA,0,39,1.146
+USA,1,28,2.894
+USA,5,19,5.552
+USA,10,16,7.287

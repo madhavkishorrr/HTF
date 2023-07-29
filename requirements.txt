@@ -1,0 +1,6 @@
+pydmd
+pandas
+numpy
+matplotlib
+ipywidgets
+-e src/
