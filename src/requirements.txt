@@ -1,0 +1,10 @@
+matplotlib
+pandas
+numpy
+pydmd
+optuna
+sklearn
+prettytable
+scikit-learn
+ipywidgets
+ipykernel

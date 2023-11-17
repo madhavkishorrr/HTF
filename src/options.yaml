@@ -1,0 +1,7 @@
+data_path : "../Dataset/IndiaStateWise/Cleaned_each_day.csv"
+results_path: "../Results/"
+data: "DAILY" #CUM
+#Optuna Params
+find_params: False
+n_trials: 250
+n_jobs: -1

@@ -1,7 +1,0 @@
-setup.py
-hodmd-experiments/__init__.py
-hodmd-experiments/experiment.py
-hodmd_experiments.egg-info/PKG-INFO
-hodmd_experiments.egg-info/SOURCES.txt
-hodmd_experiments.egg-info/dependency_links.txt
-hodmd_experiments.egg-info/top_level.txt
